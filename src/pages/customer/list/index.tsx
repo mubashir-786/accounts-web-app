@@ -22,6 +22,15 @@ export default function Page() {
       contact_person: '00123456',
       address: 'Hamitono',
       country: 'USA',
+    },   {
+      id: '2362',
+      company_name: 'ssc',
+      website: 'www.abc.com',
+      email: 'abc@gmail.com',
+      number: '123456789',
+      contact_person: '00123456',
+      address: 'Hamitono',
+      country: 'USA',
     },
     {
       id: '2362',
