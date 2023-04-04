@@ -59,9 +59,4 @@ export const MENU = [
       },
     ],
   },
-  // {
-  //   href: CUSTOMER_QUERIES_URL,
-  //   icon: <QueryStatsIcon />,
-  //   title: 'Add',
-  // },
 ];
