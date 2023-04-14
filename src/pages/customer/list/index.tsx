@@ -33,16 +33,7 @@ export default function Page() {
       address: 'Hamitono',
       country: 'USA',
     },  
-    {
-      id: '23462',
-      company_name: 'rtr',
-      website: 'www.rtr.com',
-      email: 'rtr@gmail.com',
-      number: '123456789',
-      contact_person: '00123456',
-      address: 'Hamitono',
-      country: 'USA',
-    }s
+   
   ];
   return (
     <div>
