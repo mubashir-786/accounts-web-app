@@ -32,8 +32,7 @@ export default function Page() {
       contact_person: '00123456',
       address: 'Hamitono',
       country: 'USA',
-     }
-    },
+     },
      {
       id: '26',
       company_name: 'rtr',
