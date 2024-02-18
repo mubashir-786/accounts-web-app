@@ -9,13 +9,9 @@ import {
 import { AppButton, AppLoader, Input } from 'components';
 import { firebaseAddProduct } from 'config/firebase';
 import { useFormik } from 'formik';
-import { FormEvent, memo, useState } from 'react';
+import { memo, useState } from 'react';
 
-type Props = {
-  handleSubmit: (e?: FormEvent<HTMLFormElement>) => void;
-};
-
-const Customer = ({ handleSubmit }: Props) => {
+const Customer = () => {
   const [image, setImage] = useState<any>();
   const formik = useFormik<any>({
     initialValues: {

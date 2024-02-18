@@ -13,7 +13,7 @@ const Page = () => {
           flexWrap: 'wrap',
         }}
       >
-        <AddCustomer handleSubmit={() => {}} />
+        <AddCustomer />
       </Box>
     </Box>
   );
