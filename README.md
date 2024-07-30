@@ -1,13 +1,5 @@
 
 
-
-
-
-
-
-
-     are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
